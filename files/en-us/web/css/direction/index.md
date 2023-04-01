@@ -71,10 +71,10 @@ blockquote {
 </blockquote>
 
 <blockquote>
-  <p>هذه الفقرة باللغة العربية ، لذا يجب الانتقال من اليمين إلى اليسار.</p>
+  <p>أنا مفجر.ر.</p>
   <p></p>
 </blockquote>
-```
+``` 
 
 {{EmbedLiveSample('Setting_right-to-left_direction', '100%', 200)}}
 
